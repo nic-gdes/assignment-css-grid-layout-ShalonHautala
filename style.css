@@ -42,6 +42,8 @@ text-align:center;
 
 .sponsors {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+    padding: auto;
 }
